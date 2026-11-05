@@ -1,1 +1,1 @@
-# blinkenAufKnopfDruck
+Das ist der erste Versuch einer README für das neue Repository für Informatik im Kontext
